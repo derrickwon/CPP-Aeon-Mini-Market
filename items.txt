@@ -1,0 +1,36 @@
+Condensed Milk   
+5
+3.99
+China Broccoli   
+5
+4.20
+Banana           
+5
+4.99
+Baked Beans      
+5
+4.48
+Japanese Cucumber
+5
+4.48
+Blueberry        
+5
+10.90
+Pickled Lettuce  
+5
+2.20
+Pak Choy         
+5
+2.60
+Red Apple        
+5
+2.00
+Sardine          
+5
+8.90
+Cabbage          
+5
+4.20
+Orange           
+5
+3.50
